@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = milad.ezame@gmail.com
+	name = Milad Ezame
