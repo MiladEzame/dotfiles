@@ -52,3 +52,5 @@
 [user]
 	email = milad.ezame@gmail.com
 	name = Milad Ezame
+[credential]
+	helper = wincred
